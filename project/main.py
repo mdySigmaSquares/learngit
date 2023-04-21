@@ -1,3 +1,3 @@
 if __name__ == '__main__':
     print('Hi, Python')
-    print('branch dev test')
+    print('解决冲突测试')
